@@ -1,0 +1,5 @@
+﻿  Main.cpp
+D:\C++\Python_but_not\Python_but_not\Main.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\C++\Python_but_not\Python_but_not\Main.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\C++\Python_but_not\Python_but_not\Main.cpp(75,22): warning C4018: '<': signed/unsigned mismatch
+  Python_but_not.vcxproj -> D:\C++\Python_but_not\Debug\Python_but_not.exe
